@@ -1,9 +1,21 @@
-# Chamaleon-bot
-apenas um bot de música para discord
-comandos:
+#Chamaleon-bot
+um simples bot de música para discord
+comandos
+
+r!help
+r!r!debug
+r!ping
+r!clear-queue
+r!filter
+r!loop
+r!nowPlaying
+r!pause
 r!play
-r!skip
-r!stop
+r!queue
 r!resume
-r!
-r!
+r!search
+r!shuffle
+r!stop.js
+r!volume
+
+status personalizado em ready.js
