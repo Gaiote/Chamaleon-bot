@@ -1,21 +1,24 @@
-Chamaleon-bot
-um simples bot de música para discord
-comandos
+> <h1>Chamaleon-bot
+<h2>um simples bot de música para discord🎵</h2>
+</h1>
 
- r!help
- r!r!debug
- r!ping
- r!clear-queue
- r!filter
- r!loop
- r!nowPlaying
- r!pause
- r!play
- r!queue
- r!resume
- r!search
- r!shuffle
- r!stop.js
- r!volume
+<h2>status:pronto✅</h2>
 
- status personalizado em ready.js na pasta events
+> <h2> comandos🔧 </h2>
+ <h4>r!help <br>
+ r!r!debug <br>
+ r!ping <br>
+ r!clear-queue <br>
+ r!filter <br>
+ r!loop<br>
+ r!nowPlaying<br>
+ r!pause<br>
+ r!play<br>
+ r!queue<br>
+ r!resume<br>
+ r!search<br>
+ r!shuffle<br>
+ r!stop.js<br>
+ r!volume<br> </h4>
+
+ > <p>status personalizado em ready.js na pasta events</p>📁
