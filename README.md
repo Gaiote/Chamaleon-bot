@@ -1,4 +1,4 @@
-#Chamaleon-bot
+Chamaleon-bot
 um simples bot de música para discord
 comandos
 
@@ -18,4 +18,4 @@ r!shuffle
 r!stop.js
 r!volume
 
-status personalizado em ready.js
+status personalizado em ready.js na pasta events
