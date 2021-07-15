@@ -21,4 +21,4 @@
  r!stop.js<br>
  r!volume<br> </h4>
 
- > <p>status personalizado em ready.js na pasta events</p>📁
+ > <p>status personalizado em ready.js na pasta events📁</p>
