@@ -18,7 +18,7 @@
  r!resume<br>
  r!search<br>
  r!shuffle<br>
- r!stop.js<br>
+ r!stop<br>
  r!volume<br> </h4>
 
  > <p>status personalizado em ready.js na pasta events📁</p>
