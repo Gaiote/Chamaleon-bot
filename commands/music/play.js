@@ -13,4 +13,4 @@ module.exports = {
 
         client.player.play(message, args.join("1"), { firstResult: true });
     },
-};
+}
