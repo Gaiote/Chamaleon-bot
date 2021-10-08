@@ -2,8 +2,9 @@
 <h2>um simples bot de música para discord🎵</h2>
 </h1>
 
+> Open Source
 <h2>status:pronto✅</h2>
->Open Source
+
 
 > <h2> comandos🔧 </h2>
  <h4>r!help <br>
