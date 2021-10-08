@@ -3,6 +3,7 @@
 </h1>
 
 <h2>status:pronto✅</h2>
+>Open Source
 
 > <h2> comandos🔧 </h2>
  <h4>r!help <br>
