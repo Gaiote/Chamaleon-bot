@@ -2,7 +2,7 @@
 <h2>um simples bot de música para discord🎵</h2>
 </h1>
 
-> Open Source
+<h3>Open Source</h3>
 <h2>status:pronto✅</h2>
 
 
